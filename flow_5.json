@@ -15,7 +15,7 @@
         "method": "GET",
         "ret": "txt",
         "paytoqs": "ignore",
-        "url": "https://api.openweathermap.org/data/2.5/onecall?lat=19.556408025703472&lon=-99.02014652248187&exclude=hourly,daily&appid=92a90a9535986132b4602252f8e522b2&units=metric",
+        "url": "https://api.openweathermap.org/data/2.5/onecall?lat=19.556408025703472&lon=-99.02014652248187&exclude=hourly,daily&appid=9e522b2&units=metric",
         "tls": "",
         "persist": false,
         "proxy": "",
